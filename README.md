@@ -155,9 +155,9 @@ The following measures were created using DAX:
 - Total Orders
 - Average Customer Rating
 ---
-[Dashboard_page1.png]
+Dashboard_page1.png
 
-[Dashboard_page2.png]
+Dashboard_page2.png
 
 ## 👨‍💻 Author
 
