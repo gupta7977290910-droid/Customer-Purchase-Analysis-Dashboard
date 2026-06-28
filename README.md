@@ -155,9 +155,16 @@ The following measures were created using DAX:
 - Total Orders
 - Average Customer Rating
 ---
-Dashboard_page1.png
+## 📸 Dashboard Preview
 
-Dashboard_page2.png
+### Page 1 – Customer Purchase Analysis Dashboard
+
+![Dashboard Page 1](Dashboard_page1.png)
+
+### Page 2 – Customer Behaviour Analysis Dashboard
+
+![Dashboard Page 2](Dashboard_page2.png)
+
 
 ## 👨‍💻 Author
 
